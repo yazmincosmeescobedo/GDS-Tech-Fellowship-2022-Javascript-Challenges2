@@ -70,7 +70,8 @@ console.log(monthGetter());
 //BMI than Jerry. Print a string to the console with the variable from step 3
 //( e.g. Is Tom’s BMI higher than Jerry’s? false).
 
-var tomHeight = 9;
+
+var tomHeight = 9; // WHY IS TOM SMALLER THAN JERRY AND 9 INCHES TALL???? 
 var tomMass = 8;
 
 var jerryHeight = 10; 
